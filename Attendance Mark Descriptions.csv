@@ -1,0 +1,27 @@
+Mark,Mark description,Statistical meaning
+#,Planned whole or partial school closure,Attendance not required
+/,Present (AM),Present
+\,Present (PM),Present
+I,Illness,Authorised Absence
+M,Medical/Dental appointments,Authorised Absence
+U,Late (after registers closed),Unauthorised Absence
+N,No reason yet provided for absence,Unauthorised Absence
+O,Unauthorised Abs,Unauthorised Absence
+L,Late (before registers closed),Present
+G,Family holiday (Not agreed),Unauthorised Absence
+E,Excluded,Authorised Absence
+-,All should attend / No mark recorded,No mark
+H,Family holiday (agreed),Authorised Absence
+C,Other authorised circumstances,Authorised Absence
+T,Traveller absence,Authorised Absence
+B,Off-site educational activity,Approved Educational Activity
+D,Dual Registered ,Approved Educational Activity
+J,Interview,Approved Educational Activity
+P,Sporting activity,Approved Educational Activity
+V,Educational visit,Approved Educational Activity
+W,Work experience,Approved Educational Activity
+R,Religious observance,Authorised Absence
+S,Study Leave,Authorised Absence
+Y,Exceptional circumstances,Attendance not required
+X,Not required to be in school,Attendance not required
+Z,Not on register,Attendance not required
